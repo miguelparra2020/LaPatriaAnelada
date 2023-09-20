@@ -35,7 +35,7 @@ const Usuario = () => {
   }
 
   if(tiempo == '00:00:03'){
-    enviarDatosfunctionTiempo();
+    console.log(enviarDatosfunctionTiempo());
   }
 
   
