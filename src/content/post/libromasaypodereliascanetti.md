@@ -1,8 +1,8 @@
 ---
-publishDate: 2000-01-01T00:00:00Z
+publishDate: 2000-12-31T00:00:00Z
 title: Libro Masa y poder de Elías Canetti.
-description: Puedes leer este libro en relación a la propuesta del autor Benhur Chica Mundo feliz = necesidades básicas satisfecha  + Población predispuesta a hacer el bien.
-excerpt: Puedes leer este libro en relación a la propuesta del autor Benhur Chica Mundo feliz = necesidades básicas satisfecha  + Población predispuesta a hacer el bien.
+description: Puedes leer este libro totalmente gratis, en línea o descargarlo.
+excerpt: Puedes leer este libro totalmente gratis, en línea o descargarlo.
 image: ~/assets/images/libromasaypodereliascanetti.png
 category: libro
 tags:
