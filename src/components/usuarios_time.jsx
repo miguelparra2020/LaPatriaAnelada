@@ -30,7 +30,7 @@ const Usuario = () => {
 
   const enviarDatosfunctionTiempo = () => {
     console.log("Soy el objeto externo por 3 segundos",objetoDataUsuarioTiempo);
-    console.log(enviarDatosTiempo(objetoDataUsuarioTiempo));
+    enviarDatosTiempo(objetoDataUsuarioTiempo)
 
   }
 
