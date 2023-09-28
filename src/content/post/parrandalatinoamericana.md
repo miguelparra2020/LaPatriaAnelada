@@ -15,6 +15,8 @@ canonical: https://sistemasautoorganizados.com/parrandalatinoamericana
 
 ### RESUMEN
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ojahW7h2lVI?si=YuvFDExWRPVBwiWD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 La Identidad es el sistema de convicciones y costumbres inculcadas en un grupo humano, que le orientan y enseñan a plantarse frente a las vicisitudes de la vida y aún ante las de la muerte.
 Mientras los países modernizados apelan a la identidad como instrumento visor para encontrar la estrategia precisa y solucionar cualquier emergencia, los países en desarrollo, están obligados a empeñarse en programas homeostáticos que cambian todo para que todo siga igual.
 Mediante la teoría de los Sistemas Autoorganizados,  las diferentes corrientes filosóficas acerca de la identidad, entre ellas la del Nóbel de Literatura Elías Canetti, Masa y Poder,  Muchnit Editores, p-p 7-70, 1961, se puede enunciar la siguiente hipótesis:
