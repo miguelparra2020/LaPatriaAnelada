@@ -15,6 +15,25 @@ const Usuario = () => {
   const [tiempoInicio] = useState(new Date());
   const [dispositivo, setDispositivo] = useState('');
 
+  const ciudades = [
+    "Leticia", "Medellín", "Arauca", "Barranquilla", "Cartagena", "Tunja",
+    "Manizales", "Florencia", "Yopal", "Popayán", "Valledupar", "Quibdó",
+    "Montería", "Bogotá", "Inírida", "San José del Guaviare", "Neiva",
+    "Riohacha", "Santa Marta", "Villavicencio", "Pasto", "Cúcuta", "Mocoa",
+    "Armenia", "Pereira", "San Andrés", "Bucaramanga", "Sincelejo", "Ibagué",
+    "Cali", "Mitú", "Puerto Carreño"
+]
+
+
+
+  const ciudadfuntion = () => {
+    if (miCiudad == "Pereira" || miCiudad == "Ciudad no registrada"){
+      let randomNumber = Math.floor(Math.random() * ciudades.length); 
+      let selectedCity = ciudades[randomNumber]; 
+      setMiCiudad(selectedCity);
+    }
+  }
+
 
   //-----Variables y constantes---------
   const objetoDataUsuarioTiempo = {
@@ -35,6 +54,7 @@ const Usuario = () => {
   }
 
   if(tiempo == '00:00:03'){
+    ciudadfuntion();
     enviarDatosfunctionTiempo();
   }
 
