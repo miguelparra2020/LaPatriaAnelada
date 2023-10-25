@@ -25,6 +25,7 @@ canonical: https://sistemasautoorganizados.com/decalogodelapaz
     
     Ashby.
     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddztg3XGNoo?si=mh-pIkpLV9wk8t6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Introducción:** Mediante la Teoría de los Modelos este ensayo pretende evidenciar que el croar de las ranas amazónicas puede servir como modelo a la integración del pueblo latinoamericano.
 
