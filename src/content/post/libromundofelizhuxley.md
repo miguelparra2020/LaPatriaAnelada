@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-05-13T00:00:00Z
+publishDate: 2001-01-15T00:00:00Z
 title: Libro Un mundo feliz de Aldous Huxley.
 description: Puedes leer este libro en relación a la propuesta del autor Benhur Chica Mundo feliz = necesidades básicas satisfecha  + Población predispuesta a hacer el bien.
 excerpt: Puedes leer este libro en relación a la propuesta del autor Benhur Chica Mundo feliz = necesidades básicas satisfecha  + Población predispuesta a hacer el bien.
