@@ -129,8 +129,8 @@ Una escuela es tan grande como su maestro. B.CH.
 
 El orden europeo concebido en el siglo XVIII como un gran mecanismo de relojería newtoniano de partes interconectadas, fué reemplazado por el mundo darwiniano de la supervivencia del más apto. H. Kissenger (Premio Nobel de Paz)
 
+<a href="/revolucioncientificotecnologicaparteiii">continuar en: revolución científico tecnológica - 3ra Parte</a>
 
-## Continuará...
 
 
 
