@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-04-23T00:00:00Z
+publishDate: 2023-06-28T00:00:00Z
 title: Ideología del Libertador para la Segunda Independencia de América latina
 description: Recordemos que es muy fácil crear Sistemas Autoorganizados (véase la Magia de los sistemas autoorganizados en este mismo sitio web). Basta con concebir el aparato ordenador y dotarlo de las condiciones necesarias y suficientes para hacer que la realimentación de este sistema funcione. 
 excerpt: Recordemos que es muy fácil crear Sistemas Autoorganizados (véase la Magia de los sistemas autoorganizados en este mismo sitio web). Basta con concebir el aparato ordenador y dotarlo de las condiciones necesarias y suficientes para hacer que la realimentación de este sistema funcione. 
