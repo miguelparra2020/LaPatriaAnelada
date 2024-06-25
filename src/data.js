@@ -5,43 +5,68 @@ export const headerData = {
     {
       text: 'Socio - políticos y económicos',
       links: [
-        // {
-        //   text: '👉 CIBERNÉTICA de las Elecciones y del Desastre Nacional.',
-        //   // href: getPermalink('/landing/saas'),
-        //   href:'#'
-        // },
-        // {
-        //   text: '👉 Convocatoria a la Intelectualidad Colombiana',
-        //   href:'#'
-        // },
         {
           text: '👉 Los planos de la paz',
           href:'/losplanosdelapaz'
         },
         {
-          text: '👉 Revolución científico tecnológica para el desarrollo nacional',
+          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte i',
           href:'/revolucioncientificotecnologica'
+        },
+        {
+          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte ii',
+          href:'/revolucioncientificotecnologicaii'
+        },
+        {
+          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte iii',
+          href:'/revolucioncientificotecnologicaiii'
         },
         {
           text: '👉 Decálogo de la paz',
           href:'/decalogodelapaz'
         },
-        // {
-        //   text: '👉 La Realización Personal o la Felicidad en un Nuevo Contrato Social',
-        //   href:'#'
-        // },
-        // {
-        //   text: '👉 Plan de Salvación Nacional',
-        //   href:'#'
-        // },
-        // {
-        //   text: '👉 Ideología del Libertador para la Segunda Independencia de América latina',
-        //   href:'#'
-        // },
-        // {
-        //   text: '👉 Temática libre',
-        //   href:'#'
-        // },
+        {
+          text: '👉 Ideología del libertador para la segunda independencia de latinoamerica',
+          href:'/ideologiadellibertador'
+        },
+        
+        {
+          text: '👉 Convocatoria a la intelectualidad latinoamericana',
+          href:'/convocatoriaalaintelectualidad'
+        },
+        {
+          text: '👉 Plan de salvación nacional',
+          href:'/plandesalvacionnacional'
+        },
+        {
+          text: '👉 Libros',
+          href:'/category/libro'
+        },
+      ],
+    },
+    {
+      text: 'Socio-cientificos y educativos',
+      links: [
+        {
+          text: '👉 Psicoanálisis y Pedagogía Formativa',
+          href:'/psicoanilisyeducacionformativa'
+        },
+        {
+          text: '👉 Propuesta de reforma académica',
+          href:'/propuestadereformaacademica'
+        },
+        {
+          text: '👉 La parranda como identidad del pueblo Latinoamericano',
+          href:'/parrandalatinoamericana'
+        },
+        {
+          text: '👉 La Realización Personal o la Felicidad en un Nuevo Contrato Social',
+          href:'/realizacionpersonal'
+        },
+        {
+          text: '👉 Como ganar el premio Nobel',
+          href:'/premionobel'
+        },
         {
           text: '👉 Libros',
           href:'/category/libro'
