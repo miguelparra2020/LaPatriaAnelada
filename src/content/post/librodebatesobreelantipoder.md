@@ -1,5 +1,5 @@
 ---
-publishDate: 2001-01-28T00:00:00Z
+publishDate: 2001-02-01T00:00:00Z
 title: DEBATE SONBRE EL ANTIPODER II - LA BÚSQUEDA DE LA VERDAD
 description: De la disputa entre iguales por ejercer la supremacía sobre unos súbditos resulta un  vencedor y un vencido...
 excerpt: De la disputa entre iguales por ejercer la supremacía sobre unos súbditos resulta un  vencedor y un vencido...

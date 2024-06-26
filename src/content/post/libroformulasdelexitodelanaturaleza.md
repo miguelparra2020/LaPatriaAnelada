@@ -1,5 +1,5 @@
 ---
-publishDate: 2001-01-31T00:00:00Z
+publishDate: 2001-02-20T00:00:00Z
 title: Formulas del Exito en la Naturaleza H Haken.
 description: Es la energía, en todas y cada una de sus formas, principio organizador de la naturaleza? ¿Pueden nacer estructuras nuevas y ordenadas de la materia inanimada y caótica? ¿Actúan los componentes y estructuras de la naluraleza contradiciendo los principios de la física?...
 excerpt: Es la energía, en todas y cada una de sus formas, principio organizador de la naturaleza? ¿Pueden nacer estructuras nuevas y ordenadas de la materia inanimada y caótica? ¿Actúan los componentes y estructuras de la naluraleza contradiciendo los principios de la física?...
