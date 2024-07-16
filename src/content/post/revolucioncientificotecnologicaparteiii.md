@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-05-04T00:00:00Z
+publishDate: 2023-07-28T00:00:00Z
 title: Revolución Científico Tecnológica para el Desarrollo Nacional - Parte III
 description: la sincronía entre la identidad española y el turismo como un medio de modernización del país. Se menciona que el comandante Franco, en 1951, decretó la adaptación de ruinas para convertirlas en museos, hoteles, ...
 excerpt: la sincronía entre la identidad española y el turismo como un medio de modernización del país. Se menciona que el comandante Franco, en 1951, decretó la adaptación de ruinas para convertirlas en museos, hoteles, ...

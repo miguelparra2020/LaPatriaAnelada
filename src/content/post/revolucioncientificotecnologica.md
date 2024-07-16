@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-05-10T00:00:00Z
+publishDate: 2023-07-30T00:00:00Z
 title: Revolución Científico Tecnológica para el Desarrollo Nacional 
 description: El documento que usted estimado lector tiene en su pantalla, es un proyecto destinado a realizar una revolución científica capaz de industrializar al país en un lapso máximo de 10 años.
 excerpt: El documento que usted estimado lector tiene en su pantalla, es un proyecto destinado a realizar una revolución científica capaz de industrializar al país en un lapso máximo de 10 años.
