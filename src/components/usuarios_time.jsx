@@ -101,11 +101,16 @@ useEffect(() => {
       try {
         const response = await fetch(`https://json.geoiplookup.io/${miIP}`)
         const datosIP = await response.json()
-        setMiPais(datosIP.country_name ? datosIP.country_name : miPaisAleatorio)
-        setMiCiudad(datosIP.district ? datosIP.district : miCiudadAleatorio)
-      } catch (error) {
-        setMiPais(miPaisAleatorio)
-        setMiCiudad(miCiudadAleatorio)
+        setTimeout(() => {
+          setMiPais(datosIP.country_name ? datosIP.country_name : miPaisAleatorio)
+          setMiCiudad(datosIP.district ? datosIP.district : miCiudadAleatorio)
+        }, 3000)
+        
+      } catch (error) {        
+        setTimeout(() => {
+          setMiPais(miPaisAleatorio)
+          setMiCiudad(miCiudadAleatorio)
+        }, 3000)
       }
     }
     datosDeMiIP()
