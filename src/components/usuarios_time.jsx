@@ -101,16 +101,14 @@ useEffect(() => {
       try {
         const response = await fetch(`https://json.geoiplookup.io/${miIP}`)
         const datosIP = await response.json()
-        setTimeout(() => {
+        if(datosIP){
           setMiPais(datosIP.country_name ? datosIP.country_name : miPaisAleatorio)
           setMiCiudad(datosIP.district ? datosIP.district : miCiudadAleatorio)
-        }, 3000)
+        }
         
-      } catch (error) {        
-        setTimeout(() => {
+      } catch (error) {     
           setMiPais(miPaisAleatorio)
           setMiCiudad(miCiudadAleatorio)
-        }, 3000)
       }
     }
     datosDeMiIP()
@@ -125,7 +123,6 @@ useEffect(() => {
   if (!hasRun.current && 
     (objetoData.dispositivo === 'computador' || objetoData.dispositivo === 'celular') && 
     (objetoData.pais !== '' && objetoData.ciudad !== '')) {
-    console.log(objetoData)
     enviarDatos(objetoData)
     hasRun.current = true;
   }
