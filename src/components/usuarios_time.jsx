@@ -1,6 +1,5 @@
 import {  useEffect, useState, useRef } from 'react';
 import { enviarDatos} from '../../db/db.jsx';
-
 const Usuario = () => {
   //-----Variables y constantes---------
   const [miIP, setDataIPS] = useState('')
@@ -67,10 +66,10 @@ const Usuario = () => {
 
   //-----Variables y constantes---------
   const objetoData = {
-    "pais": miPais,
-    "ciudad": miCiudad,
-    "ruta": ruta,
-    "dispositivo": dispositivo
+    "country": miPais,
+    "city": miCiudad,
+    "path": ruta,
+    "device": dispositivo
   }
 
 
@@ -97,22 +96,27 @@ useEffect(() => {
 }, [])
 
 useEffect(() => {  
-    async function datosDeMiIP(){
-      try {
-        const response = await fetch(`https://json.geoiplookup.io/${miIP}`)
-        const datosIP = await response.json()
-        if(datosIP){
-          setMiPais(datosIP.country_name ? datosIP.country_name : miPaisAleatorio)
-          setMiCiudad(datosIP.district ? datosIP.district : miCiudadAleatorio)
-        }
-        
-      } catch (error) {     
-          setMiPais(miPaisAleatorio)
-          setMiCiudad(miCiudadAleatorio)
+  async function datosDeMiIP() {
+    try {
+      const response = await fetch('http://ip-api.com/json/'+miIP);
+      const datosIPs = await response.json();
+      if (datosIPs) {
+        setMiPais(datosIPs.country ? datosIPs.country : miPaisAleatorio);
+        setMiCiudad(datosIPs.city ? datosIPs.city : miCiudadAleatorio);
+      }else{
+        setMiPais(miPaisAleatorio);
+        setMiCiudad(miCiudadAleatorio)
       }
+      
+    } catch (error) {     
+      console.error('Error al obtener datos de IP:', error);
+      setMiPais(miPaisAleatorio);
+      setMiCiudad(miCiudadAleatorio);
     }
-    datosDeMiIP()
-  }, [miIP])
+  }
+  
+  datosDeMiIP();
+}, [miIP]);
 
 useEffect(() => {
   const ruta = window.location.pathname;
@@ -121,8 +125,8 @@ useEffect(() => {
 
 useEffect(() => {
   if (!hasRun.current && 
-    (objetoData.dispositivo === 'computador' || objetoData.dispositivo === 'celular') && 
-    (objetoData.pais !== '' && objetoData.ciudad !== '')) {
+    (objetoData.device === 'computador' || objetoData.device === 'celular') && 
+    (objetoData.country !== '' && objetoData.city !== '')) {
     enviarDatos(objetoData)
     hasRun.current = true;
   }
