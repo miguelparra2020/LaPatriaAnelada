@@ -100,10 +100,15 @@ useEffect(() => {
     try {
       const response = await fetch('http://ip-api.com/json/'+miIP);
       const datosIPs = await response.json();
+      const response3 = await fetch(`https://json.geoiplookup.io/${miIP}`)
+      const datosIP3 = await response3.json()
       if (datosIPs) {
         setMiPais(datosIPs.country ? datosIPs.country : miPaisAleatorio);
         setMiCiudad(datosIPs.city ? datosIPs.city : miCiudadAleatorio);
-      }else{
+      }else if (datosIP3) {
+        setMiPais(datosIP3.country ? datosIP3.country : miPaisAleatorio);
+        setMiCiudad(datosIP3.city ? datosIP3.city : miCiudadAleatorio);
+      }else {
         setMiPais(miPaisAleatorio);
         setMiCiudad(miCiudadAleatorio)
       }
