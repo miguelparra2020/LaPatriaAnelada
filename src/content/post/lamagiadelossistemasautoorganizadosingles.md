@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-06-24T00:00:00Z
+publishDate: 2023-08-29T00:00:00Z
 title: What Are Self-Organizing Systems?
 description: Understand what they consist of, their components, and how they function. Discover the magic of self-organizing systems!
 excerpt: Understand what they consist of, their components, and how they function. Discover the magic of self-organizing systems!
