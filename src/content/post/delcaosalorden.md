@@ -135,6 +135,10 @@ En otros dos experimentos el origen de la anomalía pudo ser el reducido número
 
  > **Figura 6:** Caris y la clave de sol.   
 
+<div style="background-color: #E8F0CD; border: 4px solid #606C38; padding: 10px; border-radius: 8px; color: black;">
+
+
+
  **Bolívar cabalga en vano buscando a Caris:** 
 
  Resulta anecdótica la carta que el libertador Simón Bolívar le escribió al general Juan José Flórez, acerca de sus conclusiones tras 20 años de gobierno: “La América es ingobernables para nosotros” (Bolívar, 1830). 
@@ -147,7 +151,7 @@ En otros dos experimentos el origen de la anomalía pudo ser el reducido número
  
  La sentencia lapidaria de Bolívar, se podría entonces contestar con la premisa de que una nación o conjunto de naciones, necesita para funcionar colectivamente, encontrar la pieza clave de su identidad, la canción carismática que le habría permitido a la Gran Colombia gozar de la unidad en su diversidad. Tal como se describe en La Parranda como Identidad del Pueblo Latinoamericano, disponible en esta misma página.  
 
-
+</div>
 
 ## 3. HALLAZGOS
 
@@ -177,6 +181,8 @@ En otros dos experimentos el origen de la anomalía pudo ser el reducido número
 
    En la tercera etapa o coro, y el dejarse llevar de la corriente, estos dos personajes disfrutan de plenitud que comprende la máxima estabilidad relativa con el menor gasto energético. En suma, los procesos descritos en la SCC materializan los principios de P. Maupertuis y P. Fermat.
 
+   <div style="background-color: #FFE5EC; border: 4px solid #FB6F92; padding: 10px; border-radius: 8px; color: black;">
+
    ¿Cómo la naturaleza se las arregla para evolucionar hacia un estado de mayor estabilidad, con un costo energético mínimo?
    Esta pregunta se puede responder mediante el siguiente experimento mental.
 
@@ -187,6 +193,8 @@ En otros dos experimentos el origen de la anomalía pudo ser el reducido número
    En este momento toda la Ug que tenía Era en P1, queda convertida en calor, y la Era queda en reposo con la máxima estabilidad y un gasto mínimo (posible) de Ug. Resultado que coincide con todos los conceptos descritos en este ítem. Este experimento de la esfera que busca la estabilidad, expresa de forma muy didáctica el mecanismo mediante el cual se materializan los principios de P. Mapertuis y P. Fermat.
 
    ![Imagen de sistema](https://res.cloudinary.com/djciwvvsd/image/upload/v1739892876/Sistemas%20AutoOrganizados/ypdqjhkojli0vcpty0f9.png)
+
+   </div>
 
 4. **Se halló que el sistema, el medio ambiente y el estímulo, en un comienzo, están imbricados entre sí.**
 
