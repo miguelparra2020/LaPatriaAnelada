@@ -221,7 +221,7 @@ Toda la información contenida en la SCC se puede representar en el siguiente di
 
  Esta segunda parte está en preparación y contiene los siguientes temas:
 
- ![Imagen agenda](https://res.cloudinary.com/djciwvvsd/image/upload/v1739893574/Sistemas%20AutoOrganizados/c3vetakwkc1jqpzoxq9d.png)
+ ![Imagen agenda](https://res.cloudinary.com/djciwvvsd/image/upload/v1739928340/Sistemas%20AutoOrganizados/ao7q6v8bts0e1zpo4jsw.jpg)
 
 
 
