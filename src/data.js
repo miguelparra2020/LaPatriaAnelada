@@ -15,11 +15,11 @@ export const headerData = {
         },
         {
           text: '👉 Revolución científico tecnológica para el desarrollo nacional parte ii',
-          href:'/revolucioncientificotecnologicaii'
+          href:'/revolucioncientificotecnologicaparteii'
         },
         {
           text: '👉 Revolución científico tecnológica para el desarrollo nacional parte iii',
-          href:'/revolucioncientificotecnologicaiii'
+          href:'/revolucioncientificotecnologicaparteiii'
         },
         {
           text: '👉 Decálogo de la paz',
