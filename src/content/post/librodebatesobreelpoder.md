@@ -10,4 +10,4 @@ tags:
 canonical: https://sistemasautoorganizados.com/librodebatesobreelpoder
 ---
 
-<iframe src="https://drive.google.com/file/d/1MQcDssneZlcpnBZHvpbgnlHsFJbrXYEp/preview" width="100%" height="2000px" ></iframe>
+<iframe src="https://drive.google.com/file/d/1GvFk-iQSZx56R34SIVS8lB9WL99mYGyg/preview" width="100%" height="2000px" ></iframe>
