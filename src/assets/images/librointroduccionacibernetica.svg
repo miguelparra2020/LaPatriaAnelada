@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#060d1a"/>
+      <stop offset="100%" style="stop-color:#0d2137"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#060d1a;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#060d1a;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <!-- Grid background -->
+  <g opacity="0.06" stroke="#00e5ff" stroke-width="0.6">
+    <line x1="0" y1="75" x2="800" y2="75"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="0" y1="225" x2="800" y2="225"/>
+    <line x1="0" y1="300" x2="800" y2="300"/>
+    <line x1="0" y1="375" x2="800" y2="375"/>
+    <line x1="75" y1="0" x2="75" y2="450"/>
+    <line x1="150" y1="0" x2="150" y2="450"/>
+    <line x1="225" y1="0" x2="225" y2="450"/>
+    <line x1="300" y1="0" x2="300" y2="450"/>
+  </g>
+
+  <!-- Network nodes left side -->
+  <g opacity="0.35" transform="translate(205, 225)">
+    <circle cx="0" cy="0" r="24" fill="#00e5ff" opacity="0.55"/>
+    <circle cx="100" cy="0" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="-100" cy="0" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="50" cy="-87" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="-50" cy="-87" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="50" cy="87" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="-50" cy="87" r="12" fill="#40c4ff" opacity="0.7"/>
+    <circle cx="155" cy="-50" r="7" fill="#80deea" opacity="0.6"/>
+    <circle cx="-155" cy="-50" r="7" fill="#80deea" opacity="0.6"/>
+    <circle cx="155" cy="50" r="7" fill="#80deea" opacity="0.6"/>
+    <line x1="24" y1="0" x2="88" y2="0" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="-24" y1="0" x2="-88" y2="0" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="12" y1="-21" x2="43" y2="-74" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="-12" y1="-21" x2="-43" y2="-74" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="12" y1="21" x2="43" y2="74" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="-12" y1="21" x2="-43" y2="74" stroke="#00e5ff" stroke-width="2.5"/>
+    <line x1="112" y1="0" x2="148" y2="-43" stroke="#40c4ff" stroke-width="1.5"/>
+    <line x1="-112" y1="0" x2="-148" y2="-43" stroke="#40c4ff" stroke-width="1.5"/>
+    <line x1="112" y1="0" x2="148" y2="43" stroke="#40c4ff" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#00e5ff" stroke-width="0.8" stroke-dasharray="5,8" opacity="0.4"/>
+  </g>
+
+  <rect x="340" y="0" width="460" height="450" fill="url(#fade)"/>
+  <rect x="14" y="14" width="772" height="422" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.6"/>
+
+  <text x="510" y="90" font-family="'Courier New',monospace" font-size="12" fill="#00e5ff" text-anchor="middle" letter-spacing="5" opacity="0.8">SISTEMAS · CONTROL · RETROALIMENTACIÓN</text>
+
+  <text x="510" y="178" font-family="Georgia,'Times New Roman',serif" font-size="20" fill="#80deea" text-anchor="middle" letter-spacing="5">INTRODUCCIÓN A LA</text>
+  <text x="510" y="255" font-family="Georgia,'Times New Roman',serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="1">CIBERNÉTICA</text>
+
+  <line x1="360" y1="280" x2="660" y2="280" stroke="#00e5ff" stroke-width="1.5" opacity="0.7"/>
+
+  <text x="510" y="316" font-family="Georgia,'Times New Roman',serif" font-size="22" fill="#40c4ff" text-anchor="middle">W. Ross Ashby</text>
+  <text x="510" y="346" font-family="'Courier New',monospace" font-size="12" fill="#00e5ff" text-anchor="middle" opacity="0.65">An Introduction to Cybernetics · 1956</text>
+
+  <text x="510" y="415" font-family="'Courier New',monospace" font-size="11" fill="#00e5ff" text-anchor="middle" letter-spacing="4" opacity="0.45">SISTEMAS AUTOORGANIZADOS</text>
+</svg>
