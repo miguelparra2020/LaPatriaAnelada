@@ -11,4 +11,5 @@ tags:
 canonical: https://sistemasautoorganizados.com/revolucionautoorganizada
 ---
 
-<iframe src="https://drive.google.com/file/d/1T4aRL5RpF8wpB9uu9jwBW25PrV7kgiSo/preview" width="100%" height="2000px" ></iframe>
+<iframe src="https://drive.google.com/file/d/1gyRyNauNKIl4T2Stn_KrMpBrnN1rTTzw/preview" width="100%" height="2000px" ></iframe>
+
