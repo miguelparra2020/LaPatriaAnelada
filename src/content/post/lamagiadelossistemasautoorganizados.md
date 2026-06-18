@@ -1,6 +1,6 @@
 ---
 publishDate: 2023-08-30T00:00:00Z
-title: ¿Que son los sistemas autoorganizados?
+title: La magia de los sistemas autoorganizados - actualizada a Del Caos al Orden
 description: Comprende en que consisten, sus componentes y funcionamiento, ¡Descubre toda la magia de los sistemas autoorganizados!
 excerpt: Comprende en que consisten, sus componentes y funcionamiento, ¡Descubre toda la magia de los sistemas autoorganizados!
 image: ~/assets/images/lamagiasistemas.png
