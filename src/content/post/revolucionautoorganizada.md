@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-04-25T00:00:00Z
-title: Revolución Autoorganizada Para modernizar el país en diez años
+title: Revolución Autoorganizada para modernizar el país en diez años
 description: Un proyecto destinado a realizar una revolución autoorganizada capaz de modernizar al país en un lapso máximo de diez años.
 excerpt: Un proyecto destinado a realizar una revolución autoorganizada capaz de modernizar al país en un lapso máximo de diez años.
 image: ~/assets/images/revolucionautoorganizada.jpeg
