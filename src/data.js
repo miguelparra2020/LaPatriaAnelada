@@ -6,7 +6,7 @@ export const headerData = {
       text: 'Socio - políticos y económicos',
       links: [
         {
-          text: '👉 Los planos de la paz',
+          text: '👉 Los fundamentos estructurales de la paz',
           href:'/losplanosdelapaz'
         },
         {

@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-05-15T00:00:00Z
-title: Podcast Los planos de la paz.
-description: Podcast Los planos de la paz, resumen del tema.
+title: Podcast Los fundamentos estructurales de la paz.
+description: Podcast Los fundamentos estructurales de la paz, resumen del tema.
 excerpt: Te explicamos en formato podcast los componentes necesarios para alcanzar la paz en el país por medio de los sistemas autoorganizados.
 image: ~/assets/images/losplanosdelapazpodcast.png
 category: socio-politicos-economicos

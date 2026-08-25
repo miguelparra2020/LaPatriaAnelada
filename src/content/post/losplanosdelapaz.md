@@ -7,6 +7,6 @@ image: ~/assets/images/Losfundamentosestructuralesdelapaz.jpeg
 category: socio-politicos-economicos
 tags:
   - lectura
-canonical: https://sistemasautoorganizados.com/losplanosdelapaz
+canonical: https://sistemasautoorganizados.com/losfundamentosestructuralesdelapaz
 ---
 <iframe src="https://drive.google.com/file/d/1zMtpJFriro0YsAhM-lPsxaKPnzx9Ca87/preview" width="100%" height="2000px" ></iframe>
