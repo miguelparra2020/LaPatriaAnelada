@@ -10,18 +10,6 @@ export const headerData = {
           href:'/losplanosdelapaz'
         },
         {
-          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte i',
-          href:'/revolucioncientificotecnologica'
-        },
-        {
-          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte ii',
-          href:'/revolucioncientificotecnologicaparteii'
-        },
-        {
-          text: '👉 Revolución científico tecnológica para el desarrollo nacional parte iii',
-          href:'/revolucioncientificotecnologicaparteiii'
-        },
-        {
           text: '👉 Decálogo de la paz',
           href:'/decalogodelapaz'
         },
