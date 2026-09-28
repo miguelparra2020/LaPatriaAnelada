@@ -3,7 +3,7 @@ publishDate: 2023-05-14T00:00:00Z
 title: Plan de salvación nacional
 description: Aliviar la suerte de 32 millones de colombianos que tienen las necesidades básicas insatisfechas y formar una nueva generación de gente íntegra, proba, con capacidad de amar y dignos de ser amados, es rescatar La Patria que hemos perdido.
 excerpt: Aliviar la suerte de 32 millones de colombianos que tienen las necesidades básicas insatisfechas y formar una nueva generación de gente íntegra, proba, con capacidad de amar y dignos de ser amados, es rescatar La Patria que hemos perdido.
-image: ~/assets/images/plandesalvacionnacional.png
+image: ~/assets/images/plandesalvacionnacional/portada.webp
 category: socio-politicos-economicos
 tags:
   - podcast
